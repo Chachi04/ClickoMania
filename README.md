@@ -1,0 +1,3 @@
+# ClickoMania
+
+## A game
