@@ -1,0 +1,20 @@
+C:/Users/User/Desktop/ClickoMania/ClickoMania/bin/Debug/ClickoMania.exe.config
+C:/Users/User/Desktop/ClickoMania/ClickoMania/bin/Debug/ClickoMania.exe
+C:/Users/User/Desktop/ClickoMania/ClickoMania/bin/Debug/ClickoMania.pdb
+C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.csprojAssemblyReference.cache
+C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.Form1.resources
+C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.Properties.Resources.resources
+C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.csproj.GenerateResource.cache
+C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.exe
+C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.pdb
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/bin/Debug/ClickoMania.exe.config
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/bin/Debug/ClickoMania.exe
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/bin/Debug/ClickoMania.pdb
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.csproj.AssemblyReference.cache
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.Form1.resources
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.Properties.Resources.resources
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.csproj.GenerateResource.cache
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.csproj.CoreCompileInputs.cache
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.exe
+/home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.pdb
