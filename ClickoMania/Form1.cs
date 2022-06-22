@@ -13,18 +13,20 @@ namespace ClickoMania
 {
     public partial class Form1 : Form
     {
+        private bool GameIsRunning;
+        private Game myGame;
         public Form1()
         {
             InitializeComponent();
+            GameBoard.Click += GameBoard_Click;
+            GameIsRunning = false;
         }
 
-        private bool GameIsRunning = false;
 
         private void button1_Click(object sender, EventArgs e)
         {
-            GameBoard.Size = new Size(600, 600);
-            MessageBox.Show(GameBoard.Size.ToString());
-            Game myGame = new Game(GameBoard);
+            // MessageBox.Show(GameBoard.Size.ToString());
+            myGame = new Game(GameBoard);
 
             if (GameIsRunning)
             {
@@ -43,7 +45,6 @@ namespace ClickoMania
                {
                    GameIsRunning = true;
 
-
                    while (progressBar1.Value > 1)
                    {
                        Thread.Sleep(200);
@@ -59,5 +60,20 @@ namespace ClickoMania
             timer.Start();
         }
 
+        private void GameBoard_Click(object sender, EventArgs e)
+        {
+            if (!GameIsRunning)
+                return;
+            if (progressBar1.Value <= 10)
+            {
+                GameIsRunning = false;
+                myGame.GameOver();
+            }
+            progressBar1.BeginInvoke(new Action(() =>
+            {
+                progressBar1.Value -= 10;
+            }));
+            
+        }
     }
 }

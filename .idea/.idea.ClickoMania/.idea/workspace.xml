@@ -4,7 +4,24 @@
     <projectFile>ClickoMania/ClickoMania.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f2e183b-e28c-44f1-a2e5-cbadac8a009d" name="Changes" comment="" />
+    <list default="true" id="2f2e183b-e28c-44f1-a2e5-cbadac8a009d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClickoMania/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClickoMania/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClickoMania/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/ClickoMania.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/ClickoMania.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/bin/Debug/ClickoMania.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/bin/Debug/ClickoMania.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/bin/Debug/ClickoMania.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/bin/Debug/ClickoMania.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/obj/Debug/ClickoMania.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClickoMania/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ClickoMania/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="ClickoMania" type="DotNetProject" factoryName=".NET Project">
@@ -52,9 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1655835339977</updated>
       <workItem from="1655835341120" duration="2240000" />
+      <workItem from="1655873218841" duration="4131000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

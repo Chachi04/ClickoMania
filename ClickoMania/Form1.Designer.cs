@@ -55,7 +55,7 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.DarkTurquoise;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (204)));
             this.button1.Location = new System.Drawing.Point(12, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(634, 70);
@@ -68,7 +68,7 @@
             // 
             this.GameBoard.Location = new System.Drawing.Point(31, 129);
             this.GameBoard.Name = "GameBoard";
-            this.GameBoard.Size = new System.Drawing.Size(600, 600);
+            this.GameBoard.Size = new System.Drawing.Size(600, 550);
             this.GameBoard.TabIndex = 7;
             this.GameBoard.TabStop = false;
             // 
@@ -77,7 +77,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::ClickoMania.Properties.Resources.backpattern2;
-            this.ClientSize = new System.Drawing.Size(658, 738);
+            this.ClientSize = new System.Drawing.Size(658, 691);
             this.Controls.Add(this.GameBoard);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.label1);
@@ -86,7 +86,6 @@
             this.Text = "Clickomania";
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion
