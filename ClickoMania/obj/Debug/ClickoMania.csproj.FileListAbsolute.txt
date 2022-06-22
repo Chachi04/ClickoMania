@@ -18,3 +18,13 @@ C:/Users/User/Desktop/ClickoMania/ClickoMania/obj/Debug/ClickoMania.pdb
 /home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.csproj.CoreCompileInputs.cache
 /home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.exe
 /home/chachi/school/infos/src/ClickoMania - Kopie/ClickoMania - Kopie/ClickoMania/obj/Debug/ClickoMania.pdb
+D:\Chachi\Desktop\ClickoMania\ClickoMania\bin\Debug\ClickoMania.exe.config
+D:\Chachi\Desktop\ClickoMania\ClickoMania\bin\Debug\ClickoMania.exe
+D:\Chachi\Desktop\ClickoMania\ClickoMania\bin\Debug\ClickoMania.pdb
+D:\Chachi\Desktop\ClickoMania\ClickoMania\obj\Debug\ClickoMania.csprojAssemblyReference.cache
+D:\Chachi\Desktop\ClickoMania\ClickoMania\obj\Debug\ClickoMania.Form1.resources
+D:\Chachi\Desktop\ClickoMania\ClickoMania\obj\Debug\ClickoMania.Properties.Resources.resources
+D:\Chachi\Desktop\ClickoMania\ClickoMania\obj\Debug\ClickoMania.csproj.GenerateResource.cache
+D:\Chachi\Desktop\ClickoMania\ClickoMania\obj\Debug\ClickoMania.csproj.CoreCompileInputs.cache
+D:\Chachi\Desktop\ClickoMania\ClickoMania\obj\Debug\ClickoMania.exe
+D:\Chachi\Desktop\ClickoMania\ClickoMania\obj\Debug\ClickoMania.pdb
